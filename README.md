@@ -10,4 +10,4 @@
  <li>npm i styled-components</li>
  </ul>
 
-  
+  # View example url(https://pedicode.github.io/The_Rick_Morty/)
