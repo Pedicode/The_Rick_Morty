@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/The_Rick_Morty/static/js/main.5a8c6577.js",
+    "static/media/death.gif": "/The_Rick_Morty/static/media/death.c6e74932042469eec91f.gif",
+    "static/media/logo.png": "/The_Rick_Morty/static/media/logo.49dcf1b1e55eff55bad5.png",
+    "static/media/heart.gif": "/The_Rick_Morty/static/media/heart.78058076267b1492cf38.gif",
+    "index.html": "/The_Rick_Morty/index.html",
+    "static/media/human-male.svg": "/The_Rick_Morty/static/media/human-male.c9087567a5f7a01d1f54537c872438d5.svg",
+    "static/media/human-female.svg": "/The_Rick_Morty/static/media/human-female.3be24ead1734acf632ddf8c58719fc74.svg",
+    "main.5a8c6577.js.map": "/The_Rick_Morty/static/js/main.5a8c6577.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5a8c6577.js"
+  ]
+}
